@@ -1,0 +1,8 @@
+Versão estática da landing page.
+
+DEPLOY DIRETO: acesse https://vercel.com/drop e envie este ZIP.
+Este ZIP já contém index.html, styles.css e a pasta images. Não é necessário Node, npm ou build.
+
+WhatsApp configurado: +55 (19) 98830-9201.
+Os links e textos estão no index.html.
+Revise as informações legais e a política de privacidade antes da publicação.
